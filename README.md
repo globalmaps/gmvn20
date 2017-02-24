@@ -11,5 +11,5 @@ Contact: Department of Survey and Mapping, Ministry of Nutural Resources and Env
 
 Postal address: Hoang Quoc Viet Road, Cau Giay, Ha Noi, Vietnam 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/vietnam.png)
+E-mail: ![email](email.png)
 
